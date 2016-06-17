@@ -13,6 +13,9 @@ package main
 //implement help functionality
 //write documentation
 //implement config file
+
+//initilize webserver and allow for custom settings from config file
+//allow for custom css
 func main() {
 
 }
